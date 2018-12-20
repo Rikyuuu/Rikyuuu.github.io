@@ -1,0 +1,26 @@
+[
+    {
+        "userEmail": "jean.dupont@dartagnan.fr",
+        "userFirstName": "Jean",
+        "userLastName": "Dupont",
+        "userPassword": "Dup0nt"
+    },
+    {
+        "userEmail": "jeanne.dupont@dartagnan.fr",
+        "userFirstName": "Jeanne",
+        "userLastName": "Dupont",
+        "userPassword": "Dup0nt"
+    },
+    {
+        "userEmail": "jordy.delabarre@dartagnan.fr",
+        "userFirstName": "Jordy",
+        "userLastName": "Delabarre",
+        "userPassword": "Del4barre"
+    },
+    {
+        "userEmail": "axel.warmy@dartagnan.fr",
+        "userFirstName": "Axel",
+        "userLastName": "Warmy",
+        "userPassword": "w4rmy"
+    }
+]
